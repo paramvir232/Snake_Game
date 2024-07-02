@@ -42,7 +42,7 @@ This is a classic Snake game implemented in Python using the Turtle graphics mod
 - Collect food (the red apples) to score points.
 - Avoid crashing into the walls or into the snake's own body.
 - The game ends if the snake collides with a wall or itself.
-- Press `R` to restart the game after it ends.
+- Press `y` to restart the game after it ends.
 
 ## Dependencies
 
